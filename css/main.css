@@ -21,3 +21,11 @@ main {
 h2 {
   color: #93a1a1;
 }
+
+main div.dfn {
+  background-color: #b58900;
+}
+
+main div.dfn strong {
+  color: #fff;
+}
