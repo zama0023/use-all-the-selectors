@@ -29,3 +29,7 @@ main div.dfn {
 p + strong {
   color: #fff;
 }
+
+html header nav ul li mark {
+  background-color: #719e07;
+}
