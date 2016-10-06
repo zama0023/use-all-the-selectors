@@ -26,6 +26,6 @@ main div.dfn {
   background-color: #b58900;
 }
 
-main div.dfn strong {
+p + strong {
   color: #fff;
 }
