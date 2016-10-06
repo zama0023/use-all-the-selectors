@@ -39,7 +39,7 @@ a[rel=external] {
 }
 
 ol li:first-child {
-color: #719e47;
+  color: #719e47;
 }
 
 ol li:last-child {
