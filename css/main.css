@@ -5,3 +5,11 @@ body {
 header, footer {
   font-size: 1.5rem;
 }
+
+nav ul li {
+  font-family: sans-serif;
+}
+
+.logo {
+  text-transform: uppercase;
+}
