@@ -13,3 +13,7 @@ nav ul li {
 h1 {
   text-transform: uppercase;
 }
+
+main {
+  background-color: #eee8d5;
+}
